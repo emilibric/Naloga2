@@ -1,4 +1,4 @@
-##Izgled
+## Izgled
 - **Spletna stran mora biti pregledna, da lahko uporabnik brez težav išče avtomobile**
 - Izgledati mora moderna
 - Meni na vrhu mora biti jasen za uporabo
