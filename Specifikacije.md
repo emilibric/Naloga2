@@ -11,3 +11,7 @@
   
 <code>Bakatiti - Je podjetje, ki se ukvarja s popravilom rabljenih avtomobilov in prodajo teh samih.</code>
 
+```
+  Bakatiti - Prodajalna rabljenih in novih avtomobilnih vozil
+```
+
