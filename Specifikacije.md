@@ -1,1 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bakatiti</title>
+  
+</head>
+<body>
+  
+  <h1>Bakatiti</h1>
+<img width="1024" height="1024" alt="nano-banana-2025-10-21T12-28-13" src="https://github.com/user-attachments/assets/c6c71bf6-5157-456c-b980-a3884c5593a5" />
+  <table>
+    <tr>
+        <td>Vloga</td>
+        <td>Ime člana</td>
+    </tr>
 
+  <tr>
+    <td>Vodja prodajalne</td>
+    <td>Emil Ibrić</td>
+  </tr>
+  
+   <tr>
+    <td>Mehanik</td>
+    <td>Ažbe Dolinšek</td>
+  </tr>
+
+   <tr>
+    <td>Prodajalec</td>
+    <td>Anže Žnidar</td>
+  </tr>
+</table>
+<code>Bakatiti - Je podjetje, ki se ukvarja s popravilom rabljenih avtomobilov in prodajo teh samih.</code>
+</body>
+
+</html>
