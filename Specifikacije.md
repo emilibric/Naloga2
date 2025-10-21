@@ -1,3 +1,4 @@
+
   <h1>Bakatiti</h1>
 <img width="200" height="200" alt="nano-banana-2025-10-21T12-28-13" src="https://github.com/user-attachments/assets/c6c71bf6-5157-456c-b980-a3884c5593a5" />
   <table>
@@ -37,3 +38,12 @@
   <p><i>Ob vsakem prodanem avtomobilu se bo število količine prodanih avtomobilov na vašem profilu spremenilo📈, da lahko preprosto spremljate prodano količino💰</i></p>
 </ol>
 
+
+
+## Izgled
+- **Spletna stran mora biti pregledna, da lahko uporabnik brez težav išče avtomobile**
+- Izgledati mora moderna
+- Meni na vrhu mora biti jasen za uporabo
+- **Uporabniški vmesnik mora biti odziven in prilagodljiv za različne naprave (računalnik, telefon)**
+
+[Spletna stran po kateri se zgledujemo](https://www.mobile.de/)
