@@ -1,6 +1,6 @@
 # Bakatiti
 
-![Logotip podjetja] (https://github.com/user-attachments/assets/c6c71bf6-5157-456c-b980-a3884c5593a5)
+![Logotip podjetja](https://github.com/user-attachments/assets/c6c71bf6-5157-456c-b980-a3884c5593a5)
 
 
 | Vloga  | Ime člana |
