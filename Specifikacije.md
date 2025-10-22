@@ -1,4 +1,4 @@
-## Izgled
+## Funkcionalnosti
 
 Funkcionalnosti spletne strani:
 
