@@ -9,6 +9,8 @@
 | Mehanik: | Ažbe Dolinšek    |
 | Prodajalec:    | Anže Žnidar    |
 
+`code`
+
 
 ```Bakatiti - Podjetje ki se ukvarja s pordajo rabljenih in novih vozil.```
 
