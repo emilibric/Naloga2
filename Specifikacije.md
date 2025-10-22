@@ -1,15 +1,22 @@
-# Bakatiti
+## Funkcionalnosti
 
-![Logotip podjetja](https://github.com/user-attachments/assets/c6c71bf6-5157-456c-b980-a3884c5593a5)
+Funkcionalnosti spletne strani:
 
+1.Login/Register
 
-| Vloga  | Ime člana |
-| ------------- | ------------- |
-| Vodja prodajalne: | Emil Ibrić  |
-| Mehanik:  | Ažbe Dolinšek  |
-| Prodajalec:  | Anže Žnidar  |
+ _Omogoča ustvarjanje in vpisovanje v račun💻_
+ 
+2.Dodajanje avtomobilov na profil
+
+  _Omogoča dodajanje avtomobilov za prodajo na svoj profil🚗_
   
-```
-  Bakatiti - Prodajalna rabljenih in novih avtomobilnih vozil
-```
+ 3.Dodajanje/spreminjanje slik
+ 
+  _Za vsak avtomobil lahko tudi po objavi dodamo oz. spremenimo sliko_
+  
+ 4.Spremljanje količine prodanih avtomobilov
+ 
+  _Ob vsakem prodanem avtomobilu se bo število količine prodanih avtomobilov na vašem profilu spremenilo📈, da lahko preprosto spremljate prodano količino💰_
+  
+
 
